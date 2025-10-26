@@ -1,0 +1,15 @@
+Your Conversation Log:
+You: Hey
+AI: Hello! How can I assist you today?
+
+You: Tell me a joke
+AI: Sure! Why don't scientists trust atoms?
+
+Because they make up everything!
+
+You: Lol, tell me another
+AI: Of course! Why was the math book sad?
+
+Because it had too many problems.
+
+End of conversation
