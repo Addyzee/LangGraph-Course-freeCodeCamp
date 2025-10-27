@@ -1,0 +1,67 @@
+SPECIAL ISSUE
+
+Kenya Gazette Supplement No. 36 (National Assembly Bills No. 9)
+
+REPUBLIC OF KENYA
+KENYA GAZETTE SUPPLEMENT
+NATIONAL ASSEMBLY BILLS, 2025
+NAIROBI, 7th March, 2025
+
+CONTENT
+Bill for Introduction into the National Assembly—
+The Kenya Information and Communications (Amendment) Bill, 2025
+
+THE KENYA INFORMATION AND COMMUNICATIONS (AMENDMENT) BILL, 2025
+
+A Bill for
+
+AN ACT of Parliament to amend the Kenya Information and Communications Act
+
+ENACTED by the Parliament of Kenya, as follows—
+
+This Act may be cited as the Kenya Information and Communications (Amendment) Act, 2025.
+
+Section 2 of the Kenya Information and Communications Act (in this Act referred to as “the principal Act”) is amended in the definition of “telecommunication operator” by inserting the words “and includes an internet service provider” immediately after the expression “section 79.”
+
+Section 27A of the principal Act is amended by inserting the following new subsections immediately after subsection (3B)—
+
+“(3C) An internet service provider shall operate a meter billing system which shall—
+(a) assign to each customer a unique and identifiable meter number;
+(b) monitor customer usage;
+(c) convert customer usage into readable details;
+(d) create invoices based on consumption; and
+(e) allow for user verification of invoices.
+
+(3D) An internet service provider licensed under this Act shall submit to the Authority, at least once in every financial year, information on the billing system including internet meter numbers issued to subscribers.”
+
+The Fifth Schedule to the principal Act is amended by inserting the following new paragraph immediately after paragraph (2)—
+
+MEMORANDUM OF OBJECTS AND REASONS
+
+The principal object of this Bill is to amend the Kenya Information and Communications Act (Cap 411A) to provide for internet billing by internet service providers for metered billing of internet use, based on consumption, in order to mitigate exploitation and to secure the economic interests of internet users in line with Article 46 of the Constitution.
+
+The Bill seeks to require Internet Service Providers to develop and deploy quality metered billing systems capable of monitoring customer usage, converting usage to readable details, and creating invoices based on consumption, aligning their metrics with the value customers get from various internet services.
+
+Statement on the delegation of legislative powers and limitation of fundamental rights and freedoms
+The Bill does not delegate legislative powers nor does it limit fundamental rights and freedoms.
+
+Statement as to whether the Bill concerns counties within the meaning of Article 110(1)
+The Bill does not concern County Governments in terms of Article 110(1)(a) of the Constitution and it does not affect the functions and powers of County Governments recognized in the Fourth Schedule to the Constitution.
+
+Paragraph 18 Part 1 of the Fourth Schedule of the Constitution provides for transport and communication, including, in particular, telecommunication as a function of national government.
+
+Further, the Bill seeks to secure the economic interest of internet consumers in line with Article 46 of the Constitution. Consumer protection is a function of the national government as provided under Paragraph 14 Part I of the Fourth Schedule.
+
+Statement as to whether the Bill is a money Bill within the meaning of Article 114 of the Constitution
+The enactment of this Bill may occasion additional expenditure of public funds.
+
+Dated the 21st February, 2025.
+MARIANNE JEBET KITANY, Member of Parliament.
+
+The remainder of the PDF includes the original sections of the principal Act (Cap 411A) that are being amended, including:
+
+Section 2: Definitions such as “access,” “act of vandalism,” “broadcasting,” “Commission,” “computer,” “data,” “encryption,” “internet service provider,” etc.
+
+Section 27A: Duties of telecommunications operators — detailing the obligations for SIM-card registration, subscriber data handling, and penalties for non-compliance.
+
+The Fifth Schedule: Transitional and administrative provisions relating to broadcasting permits and domain administrators.
