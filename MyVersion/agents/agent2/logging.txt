@@ -2,14 +2,18 @@ Your Conversation Log:
 You: Hey
 AI: Hello! How can I assist you today?
 
-You: Tell me a joke
-AI: Sure! Why don't scientists trust atoms?
+You: Do you know my name?
+AI: I'm sorry, but I don't have access to personal data about individuals unless it has been shared with me during our conversation. Therefore, I don't know your name. If you'd like, you can share it with me!
 
-Because they make up everything!
+You: My name is Andy
+AI: Nice to meet you, Andy! How can I help you today?
 
-You: Lol, tell me another
-AI: Of course! Why was the math book sad?
+You: What is my name?
+AI: Your name is Andy. How can I assist you further?
 
-Because it had too many problems.
+You: Can you tell me a joke?
+AI: Sure! Why did the scarecrow win an award?
+
+Because he was outstanding in his field!
 
 End of conversation
